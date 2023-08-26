@@ -1,0 +1,23 @@
+{
+	"name": "teams-clone",
+	"version": "2.0.4",
+	"description": "Teams clone",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"keywords": [
+		"webrtc",
+		"socket.io",
+		"video"
+	],
+	"author": "Pratik Agarwal",
+	"license": "ISC",
+
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^4.0.1",
+		"vue": "^2.6.12"
+	}
+}
