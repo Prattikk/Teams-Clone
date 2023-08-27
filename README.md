@@ -1,4 +1,4 @@
-# Video-Conferencing-Application
+# Teams-Clone
 ## Developed a web application which allows visual connection between two or more remote people with various other features like chat, screen sharing, connecting external camera and microphone.
 
 
