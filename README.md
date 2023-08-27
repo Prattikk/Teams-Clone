@@ -1,5 +1,5 @@
 # Teams-Clone
-## Developed a web application which allows visual connection between two or more remote people with various other features like chat, screen sharing, connecting external camera and microphone.
+### Developed a web application which allows visual connection between two or more remote people with various other features like chat, screen sharing, connecting external camera and microphone.
 
 #### Download the repository,
 #### Run in the terminal,
